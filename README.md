@@ -1,3 +1,3 @@
 # GUESSING GAME
-## DATE()
+## echo date
 ## this code contains 19 lines
