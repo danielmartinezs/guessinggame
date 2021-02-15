@@ -1,3 +1,3 @@
 # GUESSING GAME
-## DATE
+## DATE()
 ## this code contains 19 lines
