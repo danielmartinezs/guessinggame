@@ -15,5 +15,5 @@ do
     fi
     guess
 done
-echo "You got it!"
+echo "You got it! :)"
 echo "==" && ls -1
