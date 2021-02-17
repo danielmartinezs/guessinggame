@@ -1,4 +1,5 @@
 echo "Guessing Game"
+
 function guess {
     echo "Enter the number of files that's in the current directory:"
     read answer
