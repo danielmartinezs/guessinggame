@@ -1,5 +1,4 @@
 echo "Guessing Game"
-
 function guess {
     echo "Enter the number of files that's in the current directory:"
     read answer
@@ -18,3 +17,4 @@ do
 done
 echo "You got it! :)"
 echo "==" && ls -1
+echo "Thanks for playing!"
